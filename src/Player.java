@@ -1,13 +1,13 @@
 import java.util.*;
-
+// לא עשית מספיק oop
 public class Player {
-    private char sign;
+    private char sign; // לא שם טוב למשתנה תשנה לאיתמר טכנאי
 
     public Player(char sign) {
         this.sign = sign;
     }
 
-    public char getsign() {
+    public char getsign() {   // פעולה מיותרת איתמר טכנאי
         return sign;
     }
 
