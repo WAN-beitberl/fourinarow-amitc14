@@ -1,7 +1,7 @@
 
 
 
-public class Board {  // איתמר טכנאי 
+public class Board { 
     private char[][] board;
     private int numOfRows;
     int numOfcollunms;
