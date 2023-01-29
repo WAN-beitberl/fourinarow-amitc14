@@ -2,6 +2,8 @@
 
 
 public class Board { 
+    // פעולות מעולות יכלת לקצר יותר
+    // איתמר הטכנאי היה עושה את זה יותר טוב
     private char[][] board;
     private int numOfRows;
     int numOfcollunms;
